@@ -1,0 +1,102 @@
+#one{
+    border :2px solid black;
+    padding-left: 50px;
+    width:950px;
+}
+#two {
+    font-size: 30px;
+}
+th{
+    font-size: 26px;
+}
+tr{
+    font-size: 26px;
+}
+p{
+    font-size: 26px;
+}
+li{
+    font-size: 26px;
+}
+#t{
+    padding-left: 150px;
+    padding-right: 150px;
+    margin-top: 100px;
+}
+
+#on{
+        text-align: center;
+        color:yellow;
+        text-transform: uppercase;
+        background-color: blue;
+        font-size: 100px;
+        
+
+    }
+
+#te{
+ border: 1px double red;
+ background-color: black;
+
+}
+
+#te button{
+      
+      font-size: 35px;
+      margin:20px;
+      border-radius: 30px;
+      text-align: center;
+      width: 200px;
+      text-transform: uppercase;
+
+
+}
+ul a {
+    text-decoration: none;
+    list-style: none;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Josefin Sans", sans-serif;
+  }
+  
+  header {
+    background-color: #00b894;
+  }
+  
+  nav {
+    width: 100%;
+    height: 15vh;
+    background: rgba(0, 0, 0, 0.2);
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-transform: uppercase;
+  }
+  
+  nav .logo {
+    width: 25%;
+    text-align: center;
+    /*background: red;*/
+  }
+  
+  nav .menu {
+    width: 40%;
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  nav .menu a {
+    width: 25%;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+  }
+  
+
+  
+  
+  
